@@ -1,0 +1,22 @@
+{
+    "dependencies": {},
+    "description": "Driver for Maxim MAX11644/11645 low-power ADC",
+    "fullname": "lib.maxim.max11644",
+    "git_pointer": "zerynth://zerynth-libs/maxim-max11644",
+    "info": {
+        "chip_manufacturer": "Maxim",
+        "chip_name": "MAX11644",
+        "name": "Analog-to-Digital Converter",
+        "type": "Sensor"
+    },
+    "keywords": [
+        "maxim",
+        "adc",
+        "low-power"
+
+    ],
+    "repo": "official",
+    "title": "Maxim MAX11644/11645 low-power Analog-to-Digital Converter",
+    "version": "r2.2.0",
+    "whatsnew": "first release"
+}
